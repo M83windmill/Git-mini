@@ -202,4 +202,4 @@ GPT的语义分析和自动标注能力增强了分类效果，它可以从分�
 
 以下是关于 RayBan 智能眼镜的分析结果
 
-[可供参考的评论分析样本](https://sailisi.feishu.cn/docx/SO6fdHpPFoxF5Fx23XOcPwP8nDe)
+[可供参考的评论分析样本](https://github.com/M83windmill/Product-Analysis/blob/main/RayBan.md)
